@@ -1,11 +1,11 @@
-# 🛠️ API REST - Reparación de Celulares
+#  API REST - Reparación de Celulares
 
 Proyecto desarrollado por **Luz Stefanny Herrera Rodríguez**  
 Programa: **Análisis y Desarrollo de Software (SENA)**
 
 ---
 
-## 📖 Descripción General
+##  Descripción General
 
 Esta API fue desarrollada como práctica para aplicar los conceptos fundamentales de **Express.js**, **ruteo modular**, **validaciones**, y **gestión de datos en memoria**.  
 El dominio elegido es la **Reparación de Celulares**, e incluye la gestión de tres entidades principales:
@@ -18,7 +18,7 @@ El proyecto permite realizar operaciones **CRUD completas**, validaciones básic
 
 ---
 
-## ⚙️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Node.js** v22.x  
 - **Express.js** v4.x  
@@ -26,7 +26,7 @@ El proyecto permite realizar operaciones **CRUD completas**, validaciones básic
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 reparacion_de_celulares/
 │
@@ -51,7 +51,7 @@ reparacion_de_celulares/
 
 ---
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ###  Clonar o descargar el proyecto
 ```bash
@@ -97,8 +97,8 @@ Manejo de errores con códigos HTTP (400, 404, 500).
 Autora
 
 Luz Stefanny Herrera Rodríguez
-📧 Correo: luzh2298@gmail.com
+ Correo: luzh2298@gmail.com
 
-📞 Teléfono: 3192392387 / 3202948095
-📍 SENA - Etapa Lectiva, Análisis y Desarrollo de Software
+ Teléfono: 3192392387 / 3202948095
+ SENA - Etapa Lectiva, Análisis y Desarrollo de Software
 
